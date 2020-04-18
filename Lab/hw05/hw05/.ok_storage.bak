@@ -1,0 +1,6 @@
+'replace_leaf-correct', (0, 70)
+'move_stack-correct', (512, 70)
+'interval-correct', (1024, 70)
+'sub_interval-correct', (1536, 70)
+'check_par-correct', (2048, 70)
+'quadratic-correct', (2560, 70)
